@@ -13,13 +13,13 @@ Um simples projeto para demonstrar automação em Cypress básico.
 
 - Visual Studio Code version 1.77 
 
-## Installation
+## Instalação
 
 1. Run `npm install` para instalar as dev dependencies.
 
 2. Na raiz do projeto, execute o comando `npm install cypress@9.5.1 --save-dev`
 
-## Running the tests
+## Rodando os testes
 
 In this project you can run tests in interactive and headless modes.
 
