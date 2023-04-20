@@ -15,7 +15,7 @@ Um simples projeto para demonstrar automação em Cypress básico.
 
 ## Installation
 
-1.Run `npm install` para instalar as dev dependencies.
+1. Run `npm install` para instalar as dev dependencies.
 
 2. Na raiz do projeto, execute o comando `npm install cypress@9.5.1 --save-dev`
 
