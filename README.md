@@ -23,10 +23,10 @@ Um simples projeto para demonstrar automação em Cypress básico.
 
 In this project you can run tests in interactive and headless modes.
 
-Headless mode
+### Headless mode
 
 Run ‘npm test’
 
-Interactive mode
+### Interactive mode
 
 Run ‘npm run cy:open’ to open the Cypress App to run tests in interactive mode.
