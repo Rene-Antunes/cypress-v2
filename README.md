@@ -11,7 +11,7 @@ Um simples projeto para demonstrar automação em Cypress básico.
 
 - npm version 9.5.0
 
-- Visual Studio Code version 1.77 
+- Visual Studio Code version 1.77 (ou IDE de sua preferência)
 
 ## Instalação
 
